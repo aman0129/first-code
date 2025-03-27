@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eid Mubarak 2025</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            font-family: "Courier New", Courier, monospace;
+            color: white;
+            text-align: center;
+            background-color: #000; /* Fallback background color */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .bg-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+        }
+        
+        .bg-container img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain; /* Ensures the full image is visible without cropping */
+            opacity: 0.7; /* Dark overlay effect */
+        }
+        
+        .content {
+            position: absolute;
+            text-align: center;
+            background: rgba(0, 0, 0, 0.6);
+            padding: 20px;
+            border-radius: 10px;
+        }
+        
+        hr {
+            margin: 20px auto;
+            width: 50%;
+            border: 1px solid white;
+        }
+    </style>
+</head>
+<body>
+    <div class="bg-container">
+        <img src="https://tse2.mm.bing.net/th?id=OIP.2_SEbFnQI4ziNCnNHPT5BwHaIn&pid=Api" alt="Eid Mubarak Background">
+    </div>
+    <div class="content">
+        <h1>EID MUBARAK 2025</h1>
+        <h2>BKash : 01317438873</h2>
+        <hr>
+        <p>আসসালামুয়ালাইকুম ভাই, কষ্ট করে যেহেতু লিংক এ ক্লিক করেই ফেলেছেন, তাহলে কষ্ট করে উপরের দেয়া বিকাশ নাম্বারটাই সালামিটা পাঠাই দিয়েন</p>
+        <p>Thank YOU</p>
+    </div>
+</body>
+</html>
